@@ -1,0 +1,14 @@
+saved_models/
+saved_locally_models/
+saved_2local_models/
+saved_models_new/
+saved_models/
+saved_two_local_models/
+saved_two_locally_models/
+
+docs/
+conformer.egg-info/
+conformer/.ipynb_checkpoints/
+conformer/__pycache__/
+
+__pycache__/
